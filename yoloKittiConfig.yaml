@@ -1,0 +1,5 @@
+train: /media/roovedot/common/Pr.Inv.JavierFernandez/Labeling/dataset/images/train
+val: /media/roovedot/common/Pr.Inv.JavierFernandez/Labeling/dataset/images/train
+
+nc: 7  # Number of classes
+names: ['pedestrian', 'bycicle', 'car', 'van', 'truck', 'miscellaneous', 'dontCare']  # Class names
